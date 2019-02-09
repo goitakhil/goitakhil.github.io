@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
+## Added Markdown
 
 This is my first **GitHub** markdown.
 My name is *Akhilesh Goit. I'm pursuing Undergrade in [Boise State University](https://www.boisestate.edu/).
 
-Some Interest
+![BSU Logo](https://veterans.boisestate.edu/wp-content/uploads/2012/11/BSU-logo.jpg)
+
+Some Interests
 - Learning new things
 - photography
 - music
@@ -11,8 +14,8 @@ Some Interest
 
 As Larry Niven said:
 
-> That's the thing about people who think they hate computers.
-> What they really hate is lousy programmers.
+> *That's the thing about people who think they hate computers.
+> What they really hate is lousy programmers.*
 
 You can use the [editor on GitHub](https://github.com/goitakhil/goitakhil.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

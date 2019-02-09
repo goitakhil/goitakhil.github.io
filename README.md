@@ -3,13 +3,16 @@
 This is my first **GitHub** markdown.
 My name is *Akhilesh Goit. I'm pursuing Undergrade in [Boise State University](https://www.boisestate.edu/).
 
-![Boise State University Logo](https://veterans.boisestate.edu/bsu-logo/200/200)
-
 Some Interest
 - Learning new things
 - photography
 - music
 - cycling
+
+As Larry Niven said:
+
+> That's the thing about people who think they hate computers.
+> What they really hate is lousy programmers.
 
 You can use the [editor on GitHub](https://github.com/goitakhil/goitakhil.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

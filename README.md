@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+This is my first **GitHub** markdown.
+My name is *Akhilesh Goit. I'm pursuing Undergrade in [Boise State University](https://www.boisestate.edu/).
+
+![Boise State University Logo](https://veterans.boisestate.edu/bsu-logo/200/200)
+
+Some Interest
+- Learning new things
+- photography
+- music
+- cycling
+
 You can use the [editor on GitHub](https://github.com/goitakhil/goitakhil.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
